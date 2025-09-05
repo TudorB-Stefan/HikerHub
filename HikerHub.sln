@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HikerHub.Api", "HikerHub.Api\HikerHub.Api.csproj", "{49D640EE-C14C-471B-B471-DFE1B849C474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HikerHub.Core", "HikerHub.Core\HikerHub.Core.csproj", "{7ACE20E4-35EE-459A-BCE5-88D99C6F9B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HikerHub.Infrastructure", "HikerHub.Infrastructure\HikerHub.Infrastructure.csproj", "{06FDCD9C-55A6-4B41-993E-E8B6E17D744A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D640EE-C14C-471B-B471-DFE1B849C474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D640EE-C14C-471B-B471-DFE1B849C474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D640EE-C14C-471B-B471-DFE1B849C474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D640EE-C14C-471B-B471-DFE1B849C474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACE20E4-35EE-459A-BCE5-88D99C6F9B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACE20E4-35EE-459A-BCE5-88D99C6F9B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACE20E4-35EE-459A-BCE5-88D99C6F9B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACE20E4-35EE-459A-BCE5-88D99C6F9B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FDCD9C-55A6-4B41-993E-E8B6E17D744A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FDCD9C-55A6-4B41-993E-E8B6E17D744A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FDCD9C-55A6-4B41-993E-E8B6E17D744A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FDCD9C-55A6-4B41-993E-E8B6E17D744A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/bin/Debug/net9.0/HikerHub.Infrastructure.deps.json
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/bin/Debug/net9.0/HikerHub.Infrastructure.dll
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/bin/Debug/net9.0/HikerHub.Infrastructure.pdb
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/bin/Debug/net9.0/HikerHub.Core.dll
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/bin/Debug/net9.0/HikerHub.Core.pdb
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/HikerHub.Infrastructure.csproj.AssemblyReference.cache
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/HikerHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/HikerHub.Infrastructure.AssemblyInfoInputs.cache
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/HikerHub.Infrastructure.AssemblyInfo.cs
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/HikerHub.Infrastructure.csproj.CoreCompileInputs.cache
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/HikerHub.2959C133.Up2Date
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/HikerHub.Infrastructure.dll
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/refint/HikerHub.Infrastructure.dll
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/HikerHub.Infrastructure.pdb
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/ref/HikerHub.Infrastructure.dll
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/bin/Debug/net9.0/HikerHub.Infrastructure.runtimeconfig.json
+/home/stephan/Projects/HikerHub/HikerHub.Infrastructure/obj/Debug/net9.0/HikerHub.Infrastructure.genruntimeconfig.cache

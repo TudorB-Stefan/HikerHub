@@ -1,0 +1,6 @@
+@HikerHub.Api_HostAddress = http://localhost:5051
+
+GET {{HikerHub.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

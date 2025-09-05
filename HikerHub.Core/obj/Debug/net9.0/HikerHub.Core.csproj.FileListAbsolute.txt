@@ -1,0 +1,14 @@
+/home/stephan/Projects/HikerHub/HikerHub.Core/bin/Debug/net9.0/HikerHub.Core.deps.json
+/home/stephan/Projects/HikerHub/HikerHub.Core/bin/Debug/net9.0/HikerHub.Core.dll
+/home/stephan/Projects/HikerHub/HikerHub.Core/bin/Debug/net9.0/HikerHub.Core.pdb
+/home/stephan/Projects/HikerHub/HikerHub.Core/obj/Debug/net9.0/HikerHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/stephan/Projects/HikerHub/HikerHub.Core/obj/Debug/net9.0/HikerHub.Core.AssemblyInfoInputs.cache
+/home/stephan/Projects/HikerHub/HikerHub.Core/obj/Debug/net9.0/HikerHub.Core.AssemblyInfo.cs
+/home/stephan/Projects/HikerHub/HikerHub.Core/obj/Debug/net9.0/HikerHub.Core.csproj.CoreCompileInputs.cache
+/home/stephan/Projects/HikerHub/HikerHub.Core/obj/Debug/net9.0/HikerHub.Core.dll
+/home/stephan/Projects/HikerHub/HikerHub.Core/obj/Debug/net9.0/refint/HikerHub.Core.dll
+/home/stephan/Projects/HikerHub/HikerHub.Core/obj/Debug/net9.0/HikerHub.Core.pdb
+/home/stephan/Projects/HikerHub/HikerHub.Core/obj/Debug/net9.0/ref/HikerHub.Core.dll
+/home/stephan/Projects/HikerHub/HikerHub.Core/bin/Debug/net9.0/HikerHub.Core.runtimeconfig.json
+/home/stephan/Projects/HikerHub/HikerHub.Core/obj/Debug/net9.0/HikerHub.Core.csproj.AssemblyReference.cache
+/home/stephan/Projects/HikerHub/HikerHub.Core/obj/Debug/net9.0/HikerHub.Core.genruntimeconfig.cache
